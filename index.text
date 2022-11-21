@@ -1,0 +1,18 @@
+   <div class="nav_time">
+          <div class="nav_box">
+            <p class="nav_time-num">18</p>
+            <span class="nav_box-text">Дней</span>
+          </div>
+          <div class="nav_box">
+            <p class="nav_time-num">18</p>
+            <span class="nav_box-text">Часов</span>
+          </div>
+          <div class="nav_box">
+            <p class="nav_time-num">18</p>
+            <span class="nav_box-text">Минут</span>
+          </div>
+          <div class="nav_box">
+            <p class="nav_time-num">18</p>
+            <span class="nav_box-text">Секунд</span>
+          </div>
+        </div>
